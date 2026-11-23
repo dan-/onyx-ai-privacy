@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Privacy Policy - Onyx AI</title>
 </head>
 <body>
   <h1>Privacy Policy – Onyx AI</h1>
